@@ -4,5 +4,5 @@ Gra polegająca na kolejnym odkrywaniu dwóch kart w poszukiwaniu pasującej do 
 
 Zadaniem gracza jest całkowite opróżnienie planszy z kart.
 
-Strona internetowa powstała po odbyciu kursu na kanale:
+Strona internetowa powstała po ukończeniu kursu na kanale:
 _**Code with Ania Kubów**, https://www.youtube.com/watch?v=Xm4BObh4MhI&t=10s_
