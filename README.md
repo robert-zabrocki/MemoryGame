@@ -8,4 +8,4 @@ Strona internetowa powstała po ukończeniu kursu na kanale:
 _**Code with Ania Kubów**, https://www.youtube.com/watch?v=Xm4BObh4MhI&t=10s_
 
 
-Projekt stworzony w Visual Studio Code
+dopisać: Projekt stworzony w Visual Studio Code
